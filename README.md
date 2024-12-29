@@ -1,0 +1,1 @@
+# NoWayCoin.sol
